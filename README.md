@@ -5,7 +5,7 @@ Here's some stats for my Github profile!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffkim1118)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=jeffkim1118)](https://medium.com/@1019yskim)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=1019yskim)](https://medium.com/@1019yskim)
 
 Portfolio website: https://yoonsungkim-betabuild.netlify.app/
 
