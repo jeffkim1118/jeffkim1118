@@ -1,5 +1,7 @@
 ### Hi there I'm Yoonsung!👋
 
+I want to build something fun.
+
 Here's some stats for my Github profile!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffkim1118)](https://github.com/anuraghazra/github-readme-stats)
