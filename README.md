@@ -2,7 +2,7 @@
 
 I want to build something fun.
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=jeffkim1118)
 
 Check out my recent Medium blog post!
 
