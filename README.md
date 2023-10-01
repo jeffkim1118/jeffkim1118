@@ -2,6 +2,8 @@
 
 I want to build something fun.
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 Check out my recent Medium blog post!
 
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=1019yskim)](https://medium.com/@1019yskim)
