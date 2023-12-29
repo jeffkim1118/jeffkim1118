@@ -10,6 +10,7 @@ Check out my recent Medium blog post!
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=1019yskim)](https://medium.com/@1019yskim)
 
 Portfolio website(New): https://yoonsungkim.netlify.app/
+
 Portfolio website(old): https://yoonsungkim-betabuild.netlify.app/
 
 - 🔭 I’m currently working on my new project: Fullstack portfolio website.
