@@ -13,8 +13,8 @@ Portfolio website(New): https://yoonsungkim.netlify.app/
 
 Portfolio website(old): https://yoonsungkim-betabuild.netlify.app/
 
-- 🔭 I’m currently working on my new project.
-- 🌱 I’m currently building a web applcation to help gamers to find the best deals on video games online. It is being built with Vite/React and Rails.
+- 🔭 I’m currently studying Java.
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with figuring out what to build next.
 - 💬 Ask me about ...
